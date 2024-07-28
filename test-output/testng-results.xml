@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-28T17:14:18 EEST" name="All Test Suite" finished-at="2024-07-28T17:14:34 EEST" duration-ms="15435">
+    <groups>
+    </groups>
+    <test started-at="2024-07-28T17:14:18 EEST" name="/Users/machd/IdeaProjects/NoonProject" finished-at="2024-07-28T17:14:34 EEST" duration-ms="15435">
+      <class name="SearchByCategoryTestCase">
+        <test-method is-config="true" signature="setup()[pri:0, instance:SearchByCategoryTestCase@3b2da18f]" started-at="2024-07-28T17:14:27 EEST" name="setup" finished-at="2024-07-28T17:14:31 EEST" duration-ms="4497" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="SearchByCategory()[pri:1, instance:SearchByCategoryTestCase@3b2da18f]" started-at="2024-07-28T17:14:31 EEST" name="SearchByCategory" description="Success Search by category = home" finished-at="2024-07-28T17:14:33 EEST" duration-ms="2316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchByCategory -->
+        <test-method is-config="true" signature="close()[pri:0, instance:SearchByCategoryTestCase@3b2da18f]" started-at="2024-07-28T17:14:33 EEST" name="close" finished-at="2024-07-28T17:14:34 EEST" duration-ms="126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- SearchByCategoryTestCase -->
+      <class name="SearchByKeywordAndCheckoutTestCase">
+        <test-method is-config="true" signature="setup()[pri:0, instance:SearchByKeywordAndCheckoutTestCase@48524010]" started-at="2024-07-28T17:14:18 EEST" name="setup" finished-at="2024-07-28T17:14:22 EEST" duration-ms="3521" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="SearchByKeyWord()[pri:1, instance:SearchByKeywordAndCheckoutTestCase@48524010]" started-at="2024-07-28T17:14:22 EEST" name="SearchByKeyWord" description="success test search by keyword and add to cart to checkout scenario" finished-at="2024-07-28T17:14:27 EEST" duration-ms="4796" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchByKeyWord -->
+        <test-method is-config="true" signature="close()[pri:0, instance:SearchByKeywordAndCheckoutTestCase@48524010]" started-at="2024-07-28T17:14:27 EEST" name="close" finished-at="2024-07-28T17:14:27 EEST" duration-ms="159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- SearchByKeywordAndCheckoutTestCase -->
+    </test> <!-- /Users/machd/IdeaProjects/NoonProject -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
